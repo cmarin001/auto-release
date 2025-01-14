@@ -2,7 +2,7 @@
 
 #### ⚠️ Pushed to `main`
 
-- Initial commit ([@cmarin001](https://github.com/cmarin001))
+- feat: introduce a new component in order to show the release process ([@cmarin001](https://github.com/cmarin001))
 
 #### Authors: 1
 
@@ -20,25 +20,18 @@
 
 - ci skip skip ci [#7](https://github.com/selsa-inube/inubekit-starter/pull/7) ([@cmarin001](https://github.com/cmarin001))
 - Add auto publish [#6](https://github.com/selsa-inube/inubekit-starter/pull/6) ([@cmarin001](https://github.com/cmarin001))
-- feat: release script [#4](https://github.com/selsa-inube/inubekit-starter/pull/4) ([@wfercanas](https://github.com/wfercanas))
-- refactor: change @types/styled-components to development dependencies [#3](https://github.com/selsa-inube/inubekit-starter/pull/3) ([@Andresbl123](https://github.com/Andresbl123))
-- Indicate the caveat for the first time release in `README` [#2](https://github.com/selsa-inube/inubekit-starter/pull/2) ([@Andresbl123](https://github.com/Andresbl123))
-- implement the generation of .d.ts files [#1](https://github.com/selsa-inube/inubekit-starter/pull/1) ([@Andresbl123](https://github.com/Andresbl123))
 
 #### ⚠️ Pushed to `main`
 
 - feat: install styled-components types ([@wfercanas](https://github.com/wfercanas))
-- feat: install styled-components ([@wfercanas](https://github.com/wfercanas))
 
 #### 🔩 Dependency Updates
 
-- Update inubekit/starter to storybook v8 [#5](https://github.com/selsa-inube/inubekit-starter/pull/5) ([@cmarin001](https://github.com/cmarin001))
+- Update inubekit/starter to storybook v8
 
-#### Authors: 3
+#### Authors: 1
 
-- Andres ([@Andresbl123](https://github.com/Andresbl123))
 - Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
-- Fernando Cañas ([@wfercanas](https://github.com/wfercanas))
 
 ---
 
@@ -46,17 +39,17 @@
 
 #### ⚠️ Pushed to `main`
 
-- feat: gitignore .env ([@wfercanas](https://github.com/wfercanas))
-- feat: scripts, exports and files attributes in package.json ([@wfercanas](https://github.com/wfercanas))
-- docs: update README.md ([@wfercanas](https://github.com/wfercanas))
-- feat: build config for vite.config.ts ([@wfercanas](https://github.com/wfercanas))
-- feat(storybook): preview body and head ([@wfercanas](https://github.com/wfercanas))
-- chore(eslint): change .cjs to .json config ([@wfercanas](https://github.com/wfercanas))
-- chore: clean index.ts ([@wfercanas](https://github.com/wfercanas))
-- feat: add eslint in pre-commit hook ([@wfercanas](https://github.com/wfercanas))
-- test: prettier format on commit ([@wfercanas](https://github.com/wfercanas))
-- feat: install dependencies ([@wfercanas](https://github.com/wfercanas))
+- feat: gitignore .env ([@cmarin001](https://github.com/cmarin001))
+- feat: scripts, exports and files attributes in package.json ([@cmarin001](https://github.com/cmarin001))
+- docs: update README.md ([@cmarin001](https://github.com/cmarin001))
+- feat: build config for vite.config.ts ([@cmarin001](https://github.com/cmarin001))
+- feat(storybook): preview body and head ([@cmarin001](https://github.com/cmarin001))
+- chore(eslint): change .cjs to .json config ([@cmarin001](https://github.com/cmarin001))
+- chore: clean index.ts ([@cmarin001](https://github.com/cmarin001))
+- feat: add eslint in pre-commit hook ([@cmarin001](https://github.com/cmarin001))
+- test: prettier format on commit ([@cmarin001](https://github.com/cmarin001))
+- feat: install dependencies ([@cmarin001](https://github.com/cmarin001))
 
 #### Authors: 1
 
-- Fernando Cañas ([@wfercanas](https://github.com/wfercanas))
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
