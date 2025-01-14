@@ -1,3 +1,17 @@
+# v2.0.2 (Mon Jan 13 2025)
+
+#### ⚠️ Pushed to `main`
+
+- 2.0.1 ([@cmarin001](https://github.com/cmarin001))
+- chore: update changelog for release ([@cmarin001](https://github.com/cmarin001))
+- Initial commit ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.0.1 (Mon Jan 13 2025)
 
 #### ⚠️ Pushed to `main`
