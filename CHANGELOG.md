@@ -1,3 +1,21 @@
+# v2.1.0 (Mon Jan 13 2025)
+
+#### 🚀 Enhancement
+
+- Show the release process [#1](https://github.com/cmarin001/auto-release/pull/1) ([@cmarin001](https://github.com/cmarin001))
+
+#### ⚠️ Pushed to `main`
+
+- chore: update changelog for release (cmarin6051@gmail.com)
+- Initial commit ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 2
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- cmarin001 (cmarin6051@gmail.com)
+
+---
+
 # v2.0.2 (Mon Jan 13 2025)
 
 #### ⚠️ Pushed to `main`
