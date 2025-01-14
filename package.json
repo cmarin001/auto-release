@@ -1,16 +1,14 @@
 {
-  "name": "@inubekit/your-component-name",
-  "homepage": "https://inubeds.vercel.app/",
-  "author": "inube",
+  "name": "auto-release-example",
+  "author": "cmarin",
   "main": "dist/index.es.js",
   "keywords": [
-    "inube",
-    "design-system",
+    "auto-release-example",
     "react"
   ],
   "description": "",
   "private": false,
-  "version": "0.1.0",
+  "version": "2.0.2",
   "type": "module",
   "exports": {
     ".": {
@@ -18,7 +16,8 @@
     }
   },
   "files": [
-    "dist/index.es.js"
+    "dist/index.es.js",
+    "dist/index.es.d.ts"
   ],
   "scripts": {
     "dev": "vite",
@@ -31,7 +30,8 @@
     "auto": "auto",
     "changelog": "npm run auto changelog",
     "version": "rm -rf dist && npm run build",
-    "release": "git push --follow-tags && npm run auto release"
+    "release": "git push --follow-tags && npm run auto release",
+    "autorelease": "auto shipit"
   },
   "dependencies": {
     "react": "^18.2.0",
